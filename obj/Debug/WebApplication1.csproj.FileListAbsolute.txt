@@ -1,0 +1,8 @@
+C:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\ROOT\GameQuintus\QuintusShooter\WebApplication1\bin\WebApplication1.dll.config
+C:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\ROOT\GameQuintus\QuintusShooter\WebApplication1\bin\WebApplication1.dll
+C:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\ROOT\GameQuintus\QuintusShooter\WebApplication1\bin\WebApplication1.pdb
+C:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\ROOT\GameQuintus\QuintusShooter\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\ROOT\GameQuintus\QuintusShooter\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\ROOT\GameQuintus\QuintusShooter\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\ROOT\GameQuintus\QuintusShooter\WebApplication1\bin\EntityFramework.dll
+C:\Program Files\Apache Software Foundation\Tomcat 8.0\webapps\ROOT\GameQuintus\QuintusShooter\WebApplication1\bin\EntityFramework.xml
